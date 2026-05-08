@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1777909422 source:c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<algorithm>
+	<cstring>
+	"Patient.h"
+	"Doctor.h"
+	"Appointment.h"
+	"ProjectHelp.h"
+	"mainHeader.h"
+
+1778055189 c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\patient.h
+	"ProjectHelp.h"
+
+1777909252 c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\projecthelp.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<algorithm>
+	<cstring>
+
+1778044661 c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\doctor.h
+	"ProjectHelp.h"
+
+1778169453 c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\appointment.h
+	"ProjectHelp.h"
+	"Doctor.h"
+	"Patient.h"
+
+1778062111 c:\users\haneen waleed\desktop\new codeblocks file\hospital version3\mainheader.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	<string>
+	<algorithm>
+	<cstring>
+	"Patient.h"
+	"Doctor.h"
+	"Appointment.h"
+
